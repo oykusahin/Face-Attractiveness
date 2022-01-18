@@ -1,5 +1,5 @@
 import tensorflow as tf
-from data_loader import data_loader
+from codebase.DataLoader import data_loader
 import matplotlib.pyplot as plt
 import numpy as np
 
